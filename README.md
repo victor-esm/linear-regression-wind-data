@@ -8,3 +8,5 @@ Humidity was not considered because it is higly correlated with temperature.<br>
 
 As expected, the result is very poor.<br>
 Better correlations can be achieved in met masts with control/mid-blade/lower-blade anemometers as independent variables for the target dependent variable top wind speed.
+
+[2026-02-14] app updated to consider LR between two neighbor met masts
